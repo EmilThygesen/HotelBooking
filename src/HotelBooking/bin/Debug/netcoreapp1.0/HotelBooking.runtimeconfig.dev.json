@@ -1,7 +1,7 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
-      "/home/emil/.nuget/packages"
+      "C:\\Users\\Thyll\\.nuget\\packages"
     ]
   }
 }
